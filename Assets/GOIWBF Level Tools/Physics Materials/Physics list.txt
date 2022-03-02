@@ -1,0 +1,17 @@
+== Super Friction ==
+Stone
+Tree
+Pretty much everything else
+
+== Anvil ==
+Anvil
+
+== No Friction ==
+Slide
+Snake
+Invisible Walls
+
+== Partial Friction ==
+Hat
+Orange
+Cup
